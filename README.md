@@ -1,6 +1,5 @@
 # My-movie-app
 
-
 <img width="188" alt="실행화면 1" src="https://user-images.githubusercontent.com/93520535/160026183-2e447894-cf60-4624-8c98-f5be6517dfa7.png">
 
 
